@@ -1,4 +1,4 @@
-path = "C:\\Users\\Anton\\Desktop\\test.txt"
+path = r"C:\Users\Anton\Desktop\test.txt"
 file = open(path, "r")
 mas = []
 a = file.readline()
